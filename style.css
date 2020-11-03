@@ -125,7 +125,6 @@ td, th {
 	border: 1px solid #000000;
 	padding: 8px 15px;
 }
-/* css da página inicial */
 .banner {
 	width:100%;
 }
@@ -245,7 +244,6 @@ td, th {
 	}.titulo-principal{
 		padding-top: 1em;
 	}
-	.
 	.principal p{
 		margin: 1em;
 		font-size: 18px;
@@ -269,7 +267,6 @@ td, th {
 		width: 60%;
 		margin-left: 20%;
 	}
-	/* CSS do produtos */
 	.produtos{
 		width: 100%;
 		display: block;
@@ -280,7 +277,6 @@ td, th {
 		width: 90%;
 		margin: 1% 0 0 5%;
 	}
-	/* formulario */
 	form{
 		margin: 5% 0 0 3%;
 		padding: 5%;
