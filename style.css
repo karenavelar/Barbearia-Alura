@@ -56,10 +56,10 @@ nav a:hover {
 	border-color: #088C19;	
 }
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 29px;
 }
 .produtos h2 {
-	font-size: 30px;
+	font-size: 27px;
 	font-weight: bold;
 }
 .produto-descricao {
@@ -188,7 +188,7 @@ td, th {
 }
 .imgbeneficios:hover{
 	border-color: #C78C19;
-	transform: scale(1.7);
+	transform: scale(1.2);
 }
 .imagemcortes{
 	display: inline-block;
