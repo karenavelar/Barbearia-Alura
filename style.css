@@ -225,6 +225,9 @@ td, th {
 .itens::before {
 	content: "✓";
 }
+.itens:first-child {
+	font-weight: bold;
+}
 .imagem-beneficios {
 	width: 60%;
 	opacity: 1;
